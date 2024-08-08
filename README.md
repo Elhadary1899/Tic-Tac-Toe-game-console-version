@@ -1,2 +1,21 @@
-# Tic-Tac-Toe-game-console-version
-This is a Tic Tac Toe game built in Java, designed with Object-Oriented Programming (OOP) principles. The project features a user-friendly game, offering two modes: multiplayer and single-player against an AI.
+# Tic Tac Toe Game in Java
+
+## Overview
+This is a Tic Tac Toe game built in Java, designed with Object-Oriented Programming (OOP) principles including encapsulation, inheritance, abstraction, and interfaces. The game offers two modes: multiplayer and single-player against an AI.
+
+## Features
+- **OOP Implementation**: encapsulation, inheritance, exception handling, abstraction, and interfaces are used to structure the code effectively.
+- **Exception Handling**: Robust exception handling ensures a smooth gaming experience.
+- **User Input Validation**: All user inputs are validated to prevent errors and ensure a seamless user experience.
+- **Game Modes**:
+  - **Multiplayer**: Play against another human player.
+  - **Single Player vs AI**: Challenge the AI in single-player mode.
+- **User-Friendly Ending**: At the end of each game, the winner is displayed, and the user is prompted to either play again or exit.
+
+## Usage
+- Launch the game and choose your preferred game mode.
+- Enjoy playing the game.
+- At the end of the game, choose whether to play again or exit.
+
+## Technologies Used
+- Java
